@@ -1,0 +1,6 @@
+
+Nome: Banasplit, Valor: 16,00, Descrição: Banana,sorvete e cobertura
+Nome: Sorvete variados, Valor: 6,00, Descrição: sorvete de diferentes sabores
+Nome: Picole variados, Valor: 2,00, Descrição: picoles variados sabores
+Nome:MilkShake, Valor: 10,00, Descrição: Leite e sorvete de massa
+Nome:Açai, Valor:10,00, Descrição: Açai puro e gelado.

@@ -1,0 +1,158 @@
+---------- APP BOM PRATO ----------
+Por favor, informe o número da mesa: 
+
+1
+
+
+Produtos: 
+1. Suco - R$5,00 
+2. Bauru - R$15,00 
+3. Coxinha Frita - R$6,00 
+
+Qual produto desejado (1, 2 ou 3)?
+1
+Quantas unidades? 
+2
+Deseja inserir outro produto?[S/N] 
+s
+Total: 10.0
+
+
+Produtos: 
+1. Suco - R$5,00 
+2. Bauru - R$15,00 
+3. Coxinha Frita - R$6,00 
+
+Qual produto desejado (1, 2 ou 3)?
+
+3
+Quantas unidades? 
+
+2
+Deseja inserir outro produto?[S/N] 
+n
+Total: 12.0
+Total a pagar: 22.0
+
+Qual a opção de pagamento? 
+1.Cartão de Débito 
+2.Cartão de Crédito 
+3.Dinheiro 
+1
+Quantidade de pessoas na mesa: 
+2
+O total a pagar com desconto de 10% é: 19.8
+O valor a ser pago por pessoa é de: 9.9
+
+------------ Resumo: ------------
+O total da mesa é: 19.8
+A quantidade de pessoas na mesa é 2
+Valor a ser pago por pessoa: 9.9
+
+------------------------------- 
+Deseja informar outra mesa? 
+s
+Por favor, informe o número da mesa: 
+5
+
+
+Produtos: 
+1. Suco - R$5,00 
+2. Bauru - R$15,00 
+3. Coxinha Frita - R$6,00 
+
+Qual produto desejado (1, 2 ou 3)?
+2
+Quantas unidades? 
+1
+Deseja inserir outro produto?[S/N] 
+s
+Total: 15.0
+
+
+Produtos: 
+1. Suco - R$5,00 
+2. Bauru - R$15,00 
+3. Coxinha Frita - R$6,00 
+
+Qual produto desejado (1, 2 ou 3)?
+1
+Quantas unidades? 
+4
+Deseja inserir outro produto?[S/N] 
+n
+Total: 20.0
+Total a pagar: 47.0
+
+Qual a opção de pagamento? 
+1.Cartão de Débito 
+2.Cartão de Crédito 
+3.Dinheiro 
+
+3
+Quantidade de pessoas na mesa: 
+4
+O total a pagar com desconto de 15% é: 39.95
+O valor a ser pago por pessoa é de: 9.9875
+
+------------ Resumo: ------------
+O total da mesa é: 39.95
+A quantidade de pessoas na mesa é 4
+Valor a ser pago por pessoa: 9.9875
+
+------------------------------- 
+Deseja informar outra mesa? 
+n
+---------- Mesa 1 ----------
+Mesas: 5
+Ocupada
+---------- Mesa 2 ----------
+Mesas: 0
+---------- Mesa 3 ----------
+Mesas: 0
+---------- Mesa 4 ----------
+Mesas: 0
+---------- Mesa 5 ----------
+Mesas: 0
+---------- Mesa 6 ----------
+Mesas: 0
+---------- Mesa 7 ----------
+Mesas: 0
+---------- Mesa 8 ----------
+Mesas: 0
+---------- Mesa 9 ----------
+Mesas: 0
+---------- Mesa 10 ----------
+Mesas: 0
+---------- Mesa 11 ----------
+Mesas: 0
+---------- Mesa 12 ----------
+Mesas: 0
+---------- Mesa 13 ----------
+Mesas: 0
+---------- Mesa 14 ----------
+Mesas: 0
+---------- Mesa 15 ----------
+Mesas: 0
+---------- Mesa 16 ----------
+Mesas: 0
+---------- Mesa 17 ----------
+Mesas: 0
+---------- Mesa 18 ----------
+Mesas: 0
+---------- Mesa 19 ----------
+Mesas: 0
+---------- Mesa 20 ----------
+Mesas: 0
+---------- Mesa 21 ----------
+Mesas: 0
+---------- Mesa 22 ----------
+Mesas: 0
+---------- Mesa 23 ----------
+Mesas: 0
+---------- Mesa 24 ----------
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 24 out of bounds for length 24
+	at Ex1Lista2.main(Ex1Lista2.java:102)
+
+
+** Process exited - Return Code: 1 **

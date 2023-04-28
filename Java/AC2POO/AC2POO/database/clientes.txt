@@ -1,0 +1,6 @@
+
+Nome: Roberto, CPF: 52021234851, email: abc@gmail.com
+Nome: Renato, CPF: 12345698721, email:renato@gamil.com
+Nome: Maria, CPF: 54661608802, email: maria@gmail.com
+Nome:FGHSoluções, CNPJ:87946531241, email:FGH@outlook.com
+Nome:SorocabaRefrescos, CNPJ: 13254679845, email:sr@hotmail.com

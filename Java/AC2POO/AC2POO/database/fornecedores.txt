@@ -1,0 +1,6 @@
+
+Nome: Fornecedor de banana, CNPJ:12345678901111
+Nome: Fornecedor de picole, CNPJ:00012345678945
+Nome: açai 10, CNPJ: 58826634478945
+Nome: Fornecedor sorvete, CNPJ: 56820498712354
+Nome: Fornecedor Leite, CNPJ: 12345665437890

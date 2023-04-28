@@ -1,0 +1,25 @@
+Nome: 
+Jon Snow
+Idade: 
+21
+Valor do prêmio: 
+1000000
+Cidade do ganhador: 
+1.Curitiba 
+2.Rio de Janeiro 
+3.Belo Horizonte 
+4.São Paulo 
+5.Outro 
+3
+Valor acrescido de 25%: 1250000.0
+Desconto de 15% para Belo Horizonte. Total: 1062500.0
+
+
+------------------Resumo------------------
+Nome do Ganhador: Jon Snow
+Idade do Ganhador: 21
+Valor do Prêmio: 1062500.0
+------------------------------------------
+
+
+** Process exited - Return Code: 0 **
